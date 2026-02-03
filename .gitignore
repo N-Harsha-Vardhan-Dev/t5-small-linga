@@ -1,0 +1,13 @@
+# python related 
+__pycache__/
+*.pyc
+*.pyo
+
+# virtual environment
+lingavenv/
+venv/
+env/
+.venv/
+.env/
+
+
